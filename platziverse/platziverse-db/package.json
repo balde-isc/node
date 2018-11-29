@@ -1,0 +1,15 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "modulo de base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "standard"
+  },
+  "author": "Baldemar Guzmán",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
